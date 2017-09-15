@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/cuyu/yacra/issues"
   },
-  "homepage": "https://github.com/cuyu/yacra#readme"
+  "homepage": "https://github.com/cuyu/yacra#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "chalk": "^2.1.0",
+    "create-react-app": "^1.4.0",
+    "webpack": "^3.5.6",
+    "webpack-dev-server": "^2.8.2"
+  }
 }

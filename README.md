@@ -1,0 +1,1 @@
+Yet another really simple boilerplate for React app
